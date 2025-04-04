@@ -1,3 +1,7 @@
 streamlit
-numpy
 pandas
+numpy
+scikit-learn
+opencv-python
+torch  # If using PyTorch
+tensorflow  # If using TensorFlow
